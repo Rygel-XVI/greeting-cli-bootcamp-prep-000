@@ -2,5 +2,5 @@
 def greeting(name)
   #print "Hello! What is your name?"
   #var name = gets()
-  puts "Well ${name}, nice to meet you!"
+  puts "Hello #{name}. It's nice to meet you."
 end
